@@ -25,7 +25,7 @@ Before running the project, ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/wsd.git
+git clone https://github.com/AgustinESI/WSD.git
 cd wsd
 ```
 
